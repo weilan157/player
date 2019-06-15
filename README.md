@@ -4,7 +4,7 @@
 <img alt="画江湖之不良人 第三季" src=".//播放软件截图.png">
 
 
-<pre><code>
+<pre><code class="lang-python">
 import pygame
 import os
 import time
