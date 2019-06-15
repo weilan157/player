@@ -4,7 +4,7 @@
 <img alt="画江湖之不良人 第三季" src=".//播放软件截图.png">
 
 
-
+<pre><code>
 import pygame
 import os
 import time
@@ -737,3 +737,4 @@ canvas.create_window(100, 265, width=200, height=20,
 # 进入消息循环1
 top.mainloop()
 
+</code></pre>
